@@ -1,0 +1,17 @@
+{
+	"cssPreProcessor": "css",
+	"framework": "react-typescript",
+	"includeTailwind": true,
+	"name": "eDoctor",
+	"newProject": true,
+	"package": "zmp-ui",
+	"template": "single-view",
+	"theming": {
+		"color": "#FFC50C",
+		"customColor": false,
+		"darkTheme": false,
+		"fillBars": false,
+		"iconFonts": true,
+		"useUiKits": true
+	}
+}

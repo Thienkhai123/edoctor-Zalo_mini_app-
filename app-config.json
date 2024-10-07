@@ -1,0 +1,22 @@
+{
+	"app": {
+		"actionBarHidden": false,
+		"headerColor": "#A1C4FF",
+		"headerTitle": "eDoctor",
+		"hideAndroidBottomNavigationBar": false,
+		"hideIOSSafeAreaBottom": false,
+		"leftButton": "back",
+		"selfControlLoading": false,
+		"statusBar": "normal",
+		"statusBarColor": "#ffffff",
+		"textAlign": "center",
+		"textColor": "black",
+		"title": ""
+	},
+	"debug": false,
+	"listAsyncJS": [],
+	"listCSS": [],
+	"listSyncJS": [],
+	"pages": [],
+	"template": {}
+}
